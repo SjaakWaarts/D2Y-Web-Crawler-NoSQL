@@ -3,3 +3,7 @@
 ################################################################################
 
 /insights_crawl/app/__pycache__
+/insights_crawl/bin
+/insights_crawl/data
+/insights_crawl/insights_crawl/__pycache__
+/insights_crawl/obj/Debug

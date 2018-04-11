@@ -1,0 +1,128 @@
+[INFO  - 2017-04-03T14:00:38.349Z] GhostDriver - Main - running on port 55045
+[INFO  - 2017-04-03T14:00:39.817Z] Session [eb6b0870-1875-11e7-91b2-21bbd6460767] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-04-03T14:00:39.817Z] Session [eb6b0870-1875-11e7-91b2-21bbd6460767] - page.customHeaders:  - {}
+[INFO  - 2017-04-03T14:00:39.817Z] Session [eb6b0870-1875-11e7-91b2-21bbd6460767] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-8.1-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-04-03T14:00:39.817Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: eb6b0870-1875-11e7-91b2-21bbd6460767
+[ERROR - 2017-04-03T14:00:45.048Z] Session [eb6b0870-1875-11e7-91b2-21bbd6460767] - page.onError - msg: SyntaxError: Invalid escape in identifier: '\'
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-03T14:00:45.049Z] Session [eb6b0870-1875-11e7-91b2-21bbd6460767] - page.onError - stack:
+  focus (https://www.fragrantica.com/:87)
+  re (:98)
+  og (:122)
+  Cg (:133)
+  (anonymous function) (:133)
+  (anonymous function) (:133)
+  (anonymous function) (:134)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-03T14:03:44.999Z] Session [eb6b0870-1875-11e7-91b2-21bbd6460767] - page.onError - msg: ReferenceError: Can't find variable: _gaq
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-03T14:03:44.999Z] Session [eb6b0870-1875-11e7-91b2-21bbd6460767] - page.onError - stack:
+  doRegisterNag (https://www.fragrantica.com/js/nd.v2.global.js:496)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-03T14:03:50.707Z] Session [eb6b0870-1875-11e7-91b2-21bbd6460767] - page.onError - msg: ReferenceError: Can't find variable: _gaq
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-03T14:03:50.707Z] Session [eb6b0870-1875-11e7-91b2-21bbd6460767] - page.onError - stack:
+  doRegisterNag (https://www.fragrantica.com/js/nd.v2.global.js:496)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-03T14:03:55.527Z] Session [eb6b0870-1875-11e7-91b2-21bbd6460767] - page.onError - msg: ReferenceError: Can't find variable: _gaq
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-03T14:03:55.528Z] Session [eb6b0870-1875-11e7-91b2-21bbd6460767] - page.onError - stack:
+  doRegisterNag (https://www.fragrantica.com/js/nd.v2.global.js:496)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-03T14:04:00.642Z] Session [eb6b0870-1875-11e7-91b2-21bbd6460767] - page.onError - msg: ReferenceError: Can't find variable: _gaq
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-03T14:04:00.642Z] Session [eb6b0870-1875-11e7-91b2-21bbd6460767] - page.onError - stack:
+  doRegisterNag (https://www.fragrantica.com/js/nd.v2.global.js:496)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-03T14:04:06.285Z] Session [eb6b0870-1875-11e7-91b2-21bbd6460767] - page.onError - msg: ReferenceError: Can't find variable: _gaq
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-03T14:04:06.285Z] Session [eb6b0870-1875-11e7-91b2-21bbd6460767] - page.onError - stack:
+  doRegisterNag (https://www.fragrantica.com/js/nd.v2.global.js:496)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-03T14:04:18.608Z] Session [eb6b0870-1875-11e7-91b2-21bbd6460767] - page.onError - msg: ReferenceError: Can't find variable: _gaq
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-03T14:04:18.609Z] Session [eb6b0870-1875-11e7-91b2-21bbd6460767] - page.onError - stack:
+  doRegisterNag (https://www.fragrantica.com/js/nd.v2.global.js:496)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-03T14:05:02.617Z] Session [eb6b0870-1875-11e7-91b2-21bbd6460767] - page.onError - msg: ReferenceError: Can't find variable: _gaq
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-03T14:05:02.617Z] Session [eb6b0870-1875-11e7-91b2-21bbd6460767] - page.onError - stack:
+  doRegisterNag (https://www.fragrantica.com/js/nd.v2.global.js:496)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-03T14:05:08.711Z] Session [eb6b0870-1875-11e7-91b2-21bbd6460767] - page.onError - msg: ReferenceError: Can't find variable: _gaq
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-03T14:05:08.711Z] Session [eb6b0870-1875-11e7-91b2-21bbd6460767] - page.onError - stack:
+  doRegisterNag (https://www.fragrantica.com/js/nd.v2.global.js:496)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-03T14:05:14.798Z] Session [eb6b0870-1875-11e7-91b2-21bbd6460767] - page.onError - msg: ReferenceError: Can't find variable: _gaq
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-03T14:05:14.798Z] Session [eb6b0870-1875-11e7-91b2-21bbd6460767] - page.onError - stack:
+  doRegisterNag (https://www.fragrantica.com/js/nd.v2.global.js:496)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-03T14:05:21.622Z] Session [eb6b0870-1875-11e7-91b2-21bbd6460767] - page.onError - msg: ReferenceError: Can't find variable: _gaq
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-03T14:05:21.622Z] Session [eb6b0870-1875-11e7-91b2-21bbd6460767] - page.onError - stack:
+  doRegisterNag (https://www.fragrantica.com/js/nd.v2.global.js:496)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-03T14:05:27.168Z] Session [eb6b0870-1875-11e7-91b2-21bbd6460767] - page.onError - msg: ReferenceError: Can't find variable: _gaq
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-03T14:05:27.169Z] Session [eb6b0870-1875-11e7-91b2-21bbd6460767] - page.onError - stack:
+  doRegisterNag (https://www.fragrantica.com/js/nd.v2.global.js:496)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-03T14:05:34.957Z] Session [eb6b0870-1875-11e7-91b2-21bbd6460767] - page.onError - msg: ReferenceError: Can't find variable: _gaq
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-03T14:05:34.957Z] Session [eb6b0870-1875-11e7-91b2-21bbd6460767] - page.onError - stack:
+  doRegisterNag (https://www.fragrantica.com/js/nd.v2.global.js:496)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2017-04-03T14:05:38.345Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2017-04-03T14:05:41.277Z] Session [eb6b0870-1875-11e7-91b2-21bbd6460767] - page.onError - msg: ReferenceError: Can't find variable: _gaq
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-03T14:05:41.277Z] Session [eb6b0870-1875-11e7-91b2-21bbd6460767] - page.onError - stack:
+  doRegisterNag (https://www.fragrantica.com/js/nd.v2.global.js:496)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-03T14:05:49.291Z] Session [eb6b0870-1875-11e7-91b2-21bbd6460767] - page.onError - msg: ReferenceError: Can't find variable: _gaq
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-03T14:05:49.291Z] Session [eb6b0870-1875-11e7-91b2-21bbd6460767] - page.onError - stack:
+  doRegisterNag (https://www.fragrantica.com/js/nd.v2.global.js:496)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2017-04-03T14:10:38.379Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-04-03T14:15:38.545Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-04-03T14:20:38.582Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-04-03T14:25:38.615Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-04-03T14:30:38.666Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-04-03T14:35:38.666Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-04-03T14:40:38.666Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-04-03T14:45:38.675Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-04-03T14:50:38.707Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-04-03T14:55:38.719Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-04-03T15:00:38.727Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
